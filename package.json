@@ -1,0 +1,18 @@
+{
+  "name": "zenn-content",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "zenn:preview": "zenn preview",
+    "zenn:new:article": "zenn new:article",
+    "zenn:new:book": "zenn new:book"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "zenn-cli": "^0.1.158"
+  }
+}
